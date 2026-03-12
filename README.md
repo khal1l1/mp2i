@@ -47,8 +47,6 @@ TIPE/
 - [ ] Modélisation mathématique
 - [ ] Implémentation Dijkstra
 - [ ] Implémentation Bellman-Ford
-- [ ] Comparaison expérimentale
-- [ ] Extension multicritère
 
 ---
 
