@@ -23,11 +23,7 @@
 
 ```
 TIPE/
-├── README.md               ← Ce fichier
-├── requirements.txt        ← Dépendances Python
-│
-├─
-```
+├── README.md 
 
 ---
 
