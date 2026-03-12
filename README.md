@@ -52,14 +52,6 @@ TIPE/
 
 ---
 
-## Installation
-
-```bash
-git clone <url-du-repo>
-cd TIPE
-pip install -r requirements.txt
-```
-
 ## Utilisation rapide
 
 ```python
